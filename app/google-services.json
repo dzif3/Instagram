@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "46231891991",
+    "firebase_url": "https://sosial-media-b54e9.firebaseio.com",
+    "project_id": "sosial-media-b54e9",
+    "storage_bucket": "sosial-media-b54e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46231891991:android:60c3c6641f6e99b56eec52",
+        "android_client_info": {
+          "package_name": "com.example.dzikstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46231891991-bm0f62g80af53dj07p3lpd9err3joebr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dzikstagram",
+            "certificate_hash": "8ada752135cfca1bbac3d291349478d76d0ee34a"
+          }
+        },
+        {
+          "client_id": "46231891991-d3c8l1ld2fqhgsrrocff4s8edhsuacg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIP4EETNqywJGUR5vYnDIp0dbdD70vO7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46231891991-d3c8l1ld2fqhgsrrocff4s8edhsuacg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
